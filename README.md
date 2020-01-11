@@ -1,6 +1,6 @@
-Swiftie Foodie (MIE350 Web application project)
+# Swiftie Foodie (MIE350 Web application project)
 
-Description
+## Description    
 To fill the gap and to enable young adults, especially university students, to cook affordable and quick meals meeting dietary restrictions, the web design team created Swiftie Foodie, an information site that provides users with a collection of healthy and quick-to-prepare recipes. 
 The primary stakeholders/users of Swiftie Foodie are young adults.
 
@@ -13,8 +13,8 @@ The primary stakeholders/users of Swiftie Foodie are young adults.
 In the future, in order to enrich the user experience and enable users to perform more tasks on the Swiftie Foodie, functions such as “create new recipes”, “rate recipes” and “send weekly meal plan through email” are expected to be implemented. 
 From administrative perspective, to maintain the recipe database and update recipes from valid sources, functions such as “modify recipe” and “upload recipe” should also be added in the system that allows website administrators to manage recipes.
 
-Installation
+## Installation    
 Install the server: apache-tomcat-7.0.96.zip
 
-Team members
+## Team members    
 Made by Chloe Wang (yubochloe.wang@mail.utoronto.ca), Yvonne Sun (yvonneee.sun@mail.utoronto.ca), Kittima Ratana-Rueangsri (kittima.ratana.rueangsri@mail.utoronto.ca), Xiaoou Li (xiaoou.li@mail.utoronto.ca), Yixin Sun (yixin.sun@mail.utoronto.ca), Xinrui Zheng (rayna.zheng@mail.utoronto.ca).
